@@ -1,0 +1,110 @@
+C:\Users\Administrator\source\repos\Thunder\Thunder\bin\Debug\Thunder.exe.config
+C:\Users\Administrator\source\repos\Thunder\Thunder\bin\Debug\Thunder.exe
+C:\Users\Administrator\source\repos\Thunder\Thunder\bin\Debug\Thunder.pdb
+C:\Users\Administrator\source\repos\Thunder\Thunder\obj\Debug\Thunder.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Thunder\Thunder\obj\Debug\Thunder.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Thunder\Thunder\obj\Debug\Thunder.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Thunder\Thunder\obj\Debug\Thunder.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Thunder\Thunder\obj\Debug\Thunder.exe
+C:\Users\Administrator\source\repos\Thunder\Thunder\obj\Debug\Thunder.pdb
+C:\Users\Administrator\source\repos\Thunder\Thunder\obj\Debug\Thunder.MainForm.resources
+C:\Users\User\source\repos\Thunder\Thunder\bin\Debug\Thunder.exe.config
+C:\Users\User\source\repos\Thunder\Thunder\bin\Debug\Thunder.exe
+C:\Users\User\source\repos\Thunder\Thunder\bin\Debug\Thunder.pdb
+C:\Users\User\source\repos\Thunder\Thunder\obj\Debug\Thunder.MainForm.resources
+C:\Users\User\source\repos\Thunder\Thunder\obj\Debug\Thunder.Properties.Resources.resources
+C:\Users\User\source\repos\Thunder\Thunder\obj\Debug\Thunder.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Thunder\Thunder\obj\Debug\Thunder.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Thunder\Thunder\obj\Debug\Thunder.exe
+C:\Users\User\source\repos\Thunder\Thunder\obj\Debug\Thunder.pdb
+C:\Users\User\source\repos\Thunder\Thunder\obj\Debug\Thunder.csproj.ResolveComReference.cache
+C:\Users\User\source\repos\Thunder\Thunder\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\source\repos\Thunder\Thunder\obj\Debug\Thunder.LoginForm.resources
+C:\Users\Administrator\source\repos\Thunder\Thunder\obj\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\source\repos\Thunder\Thunder\obj\Debug\Thunder.csproj.ResolveComReference.cache
+C:\Users\Administrator\source\repos\Thunder\Thunder\obj\Debug\Thunder.LoginForm.resources
+E:\Thunder\Thunder\bin\Debug\Thunder.exe.config
+E:\Thunder\Thunder\bin\Debug\Thunder.exe
+E:\Thunder\Thunder\bin\Debug\Thunder.pdb
+E:\Thunder\Thunder\obj\Debug\Thunder.csprojAssemblyReference.cache
+E:\Thunder\Thunder\obj\Debug\Interop.WMPLib.dll
+E:\Thunder\Thunder\obj\Debug\Thunder.csproj.ResolveComReference.cache
+E:\Thunder\Thunder\obj\Debug\Thunder.LoginForm.resources
+E:\Thunder\Thunder\obj\Debug\Thunder.MainForm.resources
+E:\Thunder\Thunder\obj\Debug\Thunder.Properties.Resources.resources
+E:\Thunder\Thunder\obj\Debug\Thunder.csproj.GenerateResource.cache
+E:\Thunder\Thunder\obj\Debug\Thunder.csproj.CoreCompileInputs.cache
+E:\Thunder\Thunder\obj\Debug\Thunder.exe
+E:\Thunder\Thunder\obj\Debug\Thunder.pdb
+D:\CMoney 上課\Thunder\Thunder\bin\Debug\Thunder.exe.config
+D:\CMoney 上課\Thunder\Thunder\bin\Debug\Thunder.exe
+D:\CMoney 上課\Thunder\Thunder\bin\Debug\Thunder.pdb
+D:\CMoney 上課\Thunder\Thunder\obj\Debug\Thunder.csprojAssemblyReference.cache
+D:\CMoney 上課\Thunder\Thunder\obj\Debug\Interop.WMPLib.dll
+D:\CMoney 上課\Thunder\Thunder\obj\Debug\Thunder.csproj.ResolveComReference.cache
+D:\CMoney 上課\Thunder\Thunder\obj\Debug\Thunder.LoginForm.resources
+D:\CMoney 上課\Thunder\Thunder\obj\Debug\Thunder.MainForm.resources
+D:\CMoney 上課\Thunder\Thunder\obj\Debug\Thunder.Properties.Resources.resources
+D:\CMoney 上課\Thunder\Thunder\obj\Debug\Thunder.csproj.GenerateResource.cache
+D:\CMoney 上課\Thunder\Thunder\obj\Debug\Thunder.csproj.CoreCompileInputs.cache
+D:\CMoney 上課\Thunder\Thunder\obj\Debug\Thunder.exe
+D:\CMoney 上課\Thunder\Thunder\obj\Debug\Thunder.pdb
+H:\CMoney 上課\Thunder\Thunder\bin\Debug\Thunder.exe.config
+H:\CMoney 上課\Thunder\Thunder\bin\Debug\Thunder.exe
+H:\CMoney 上課\Thunder\Thunder\bin\Debug\Thunder.pdb
+H:\CMoney 上課\Thunder\Thunder\obj\Debug\Thunder.csprojAssemblyReference.cache
+H:\CMoney 上課\Thunder\Thunder\obj\Debug\Interop.WMPLib.dll
+H:\CMoney 上課\Thunder\Thunder\obj\Debug\Thunder.csproj.ResolveComReference.cache
+H:\CMoney 上課\Thunder\Thunder\obj\Debug\Thunder.LoginForm.resources
+H:\CMoney 上課\Thunder\Thunder\obj\Debug\Thunder.MainForm.resources
+H:\CMoney 上課\Thunder\Thunder\obj\Debug\Thunder.Properties.Resources.resources
+H:\CMoney 上課\Thunder\Thunder\obj\Debug\Thunder.csproj.GenerateResource.cache
+H:\CMoney 上課\Thunder\Thunder\obj\Debug\Thunder.csproj.CoreCompileInputs.cache
+H:\CMoney 上課\Thunder\Thunder\obj\Debug\Thunder.exe
+H:\CMoney 上課\Thunder\Thunder\obj\Debug\Thunder.pdb
+C:\Users\pigis\Documents\CMoney 上課\Thunder\Thunder\bin\Debug\Thunder.exe.config
+C:\Users\pigis\Documents\CMoney 上課\Thunder\Thunder\bin\Debug\Thunder.exe
+C:\Users\pigis\Documents\CMoney 上課\Thunder\Thunder\bin\Debug\Thunder.pdb
+C:\Users\pigis\Documents\CMoney 上課\Thunder\Thunder\obj\Debug\Interop.WMPLib.dll
+C:\Users\pigis\Documents\CMoney 上課\Thunder\Thunder\obj\Debug\Thunder.csproj.ResolveComReference.cache
+C:\Users\pigis\Documents\CMoney 上課\Thunder\Thunder\obj\Debug\Thunder.LoginForm.resources
+C:\Users\pigis\Documents\CMoney 上課\Thunder\Thunder\obj\Debug\Thunder.MainForm.resources
+C:\Users\pigis\Documents\CMoney 上課\Thunder\Thunder\obj\Debug\Thunder.Properties.Resources.resources
+C:\Users\pigis\Documents\CMoney 上課\Thunder\Thunder\obj\Debug\Thunder.csproj.GenerateResource.cache
+C:\Users\pigis\Documents\CMoney 上課\Thunder\Thunder\obj\Debug\Thunder.csproj.CoreCompileInputs.cache
+C:\Users\pigis\Documents\CMoney 上課\Thunder\Thunder\obj\Debug\Thunder.exe
+C:\Users\pigis\Documents\CMoney 上課\Thunder\Thunder\obj\Debug\Thunder.pdb
+C:\Users\pigis\Documents\CMoney 上課\Thunder\Thunder\obj\Debug\Thunder.csprojAssemblyReference.cache
+C:\Users\pigis\Documents\CMoney 上課\Thunder\Thunder\obj\Debug\Thunder.pauseForm.resources
+C:\Users\User\source\repos\Thunder\Thunder\obj\Debug\Thunder.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Thunder\Thunder\obj\Debug\Thunder.pauseForm.resources
+E:\Thunder\Thunder\obj\Debug\Thunder.pauseForm.resources
+F:\Thunder\Thunder\bin\Debug\Thunder.exe.config
+F:\Thunder\Thunder\bin\Debug\Thunder.exe
+F:\Thunder\Thunder\bin\Debug\Thunder.pdb
+F:\Thunder\Thunder\obj\Debug\Interop.WMPLib.dll
+F:\Thunder\Thunder\obj\Debug\Thunder.csproj.ResolveComReference.cache
+F:\Thunder\Thunder\obj\Debug\Thunder.LoginForm.resources
+F:\Thunder\Thunder\obj\Debug\Thunder.MainForm.resources
+F:\Thunder\Thunder\obj\Debug\Thunder.pauseForm.resources
+F:\Thunder\Thunder\obj\Debug\Thunder.Properties.Resources.resources
+F:\Thunder\Thunder\obj\Debug\Thunder.csproj.GenerateResource.cache
+F:\Thunder\Thunder\obj\Debug\Thunder.csproj.CoreCompileInputs.cache
+F:\Thunder\Thunder\obj\Debug\Thunder.exe
+F:\Thunder\Thunder\obj\Debug\Thunder.pdb
+F:\Thunder\Thunder\obj\Debug\Thunder.csprojAssemblyReference.cache
+C:\Users\pigis\Documents\Thunder\Thunder\bin\Debug\Thunder.exe.config
+C:\Users\pigis\Documents\Thunder\Thunder\bin\Debug\Thunder.exe
+C:\Users\pigis\Documents\Thunder\Thunder\bin\Debug\Thunder.pdb
+C:\Users\pigis\Documents\Thunder\Thunder\obj\Debug\Thunder.csprojAssemblyReference.cache
+C:\Users\pigis\Documents\Thunder\Thunder\obj\Debug\Interop.WMPLib.dll
+C:\Users\pigis\Documents\Thunder\Thunder\obj\Debug\Thunder.csproj.ResolveComReference.cache
+C:\Users\pigis\Documents\Thunder\Thunder\obj\Debug\Thunder.LoginForm.resources
+C:\Users\pigis\Documents\Thunder\Thunder\obj\Debug\Thunder.MainForm.resources
+C:\Users\pigis\Documents\Thunder\Thunder\obj\Debug\Thunder.pauseForm.resources
+C:\Users\pigis\Documents\Thunder\Thunder\obj\Debug\Thunder.Properties.Resources.resources
+C:\Users\pigis\Documents\Thunder\Thunder\obj\Debug\Thunder.csproj.GenerateResource.cache
+C:\Users\pigis\Documents\Thunder\Thunder\obj\Debug\Thunder.csproj.CoreCompileInputs.cache
+C:\Users\pigis\Documents\Thunder\Thunder\obj\Debug\Thunder.exe
+C:\Users\pigis\Documents\Thunder\Thunder\obj\Debug\Thunder.pdb
+C:\Users\pigis\Documents\Thunder\Thunder\obj\Debug\Thunder.Form1.resources
